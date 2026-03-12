@@ -17,6 +17,12 @@
       "login": "Motben12",
       "password": "sosals",
       "happy-balance": 10
+    },
+    {
+      "ID": 4,
+      "login": "Guest",
+      "password": "guest",
+      "happy-balance": 5
     }
   ]
 }
