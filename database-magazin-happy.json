@@ -17,12 +17,6 @@
       "login": "Motben12",
       "password": "sosals",
       "happy-balance": 10
-    },
-    {
-      "ID": 4,
-      "login": "news",
-      "password": "pass123",
-      "happy-balance": 5
     }
   ]
 }
