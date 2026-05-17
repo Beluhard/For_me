@@ -18,3 +18,4 @@ Beluhard: sd
 Beluhard: meow
 Beluhard: meow
 Beluhard: s
+Beluhard: ds
