@@ -19,3 +19,4 @@ Beluhard: meow
 Beluhard: meow
 Beluhard: s
 Beluhard: ds
+Beluhard: de
